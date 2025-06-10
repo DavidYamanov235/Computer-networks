@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 350px;
+  }
+  
+  th, td {
+    border: 1px solid #fff;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 1.3em;
+  }
+  
+  th {
+    background-color: #800000; /* темно-красный */
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  td {
+    background-color: #000080; /* темно-синий */
+    color: #fff;
+  }

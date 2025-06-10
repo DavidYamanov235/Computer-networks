@@ -1,0 +1,18 @@
+table{
+    border: 4 px, solid, black;
+    border-style: double;
+    border-collapse: collapse;
+}
+td{
+    border: 4 px, solid, black;
+    border-style: double;
+     border-collapse: collapse;
+}
+tr{
+    border: 4 px, solid, black;
+    border-style: double; 
+    border-collapse: collapse;
+}
+.grey{
+    background-color: gray;
+}

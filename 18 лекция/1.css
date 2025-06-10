@@ -1,0 +1,15 @@
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: rgb(17, 201, 201);
+}
+table{
+    border: 5px;
+    border-color: black;border-style: inset;
+}
+tr{
+    border-color: black;
+    border: 2px;
+    border-style: dashed;
+}
